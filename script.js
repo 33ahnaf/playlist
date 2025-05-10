@@ -31,7 +31,7 @@ let songs = [
     { song_name: "Señorita", author_name: "Shawn Mendes & Camila Cabello", file_path: "Senorita.mp4" },
     { song_name: "Shape of You", author_name: "Ed Sheeran", file_path: "Shape of You.mp4" },
     { song_name: "Shootout", author_name: "Izzamuzzic & Julien Marchal", file_path: "Shootout.mp4" },
-    { song_name: "The Last of Us", author_name: "Gustavo Santaolalla", file_path: "The Last of Us.mp4" },
+    { song_name: "The Last of Us", author_name: "Gustavo Santaolalla", file_path: "The Last of Us Theme Song.mp4" },
     { song_name: "The Lost Soul Down", author_name: "NBSPLV", file_path: "The Lost Soul Down.mp4" },
     { song_name: "GANGSTA'S PARADISE", author_name: "Coolio", file_path: "https://www.youtube.com/watch?v=NMNsvyDbdMQ" },
 ];
