@@ -64,4 +64,8 @@ h2 {
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+    transition: transform 0.3s;
+}
+#back-btn:hover {
+    transform: scale(1.02);
 }
