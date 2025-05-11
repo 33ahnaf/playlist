@@ -1,7 +1,8 @@
 let songs = [
     { song_name: "Safe and Sound", author_name: "Capital Cities", file_path: "Safe and Sound.mp4" },
-    { song_name: "After Dark", author_name: "Mr. Kitty", file_path: "After Dark.mp4" },
+    { song_name: "Resonance", author_name: "HOME", file_path: "HOME - Resonance.mp4" },
     { song_name: "Hurts So Good", author_name: "Astrid S", file_path: "Hurts So Good.mp4" },
+    { song_name: "After Dark", author_name: "Mr. Kitty", file_path: "After Dark.mp4" },
     { song_name: "Alone, Pt. II", author_name: "Alan Walker & Ava Max", file_path: "Alone, Pt. II.mp4" },
     { song_name: "Moonlight", author_name: "Kali Uchis", file_path: "Moonlight.mp4" },
     { song_name: "Talking to the Moon", author_name: "Bruno Mars", file_path: "Talking To The Moon.mp4" },
