@@ -9,7 +9,7 @@ let songs = [
     { song_name: "Dandelions", author_name: "Ruth B.", file_path: "Dandelions.mp4" },
     { song_name: "Lovers Rock", author_name: "TV Girl", file_path: "Lovers Rock.mp4" },
     { song_name: "Love Me Again", author_name: "John Newman", file_path: "Love Me Again.mp4" },
-    { song_name: "Ava", author_name: "Famy", file_path: "Ava.mp4" },
+    { song_name: "Dancefloor Dreamer", author_name: "NIVIRO", file_path: "NIVIRO - Dancefloor Dreamer.mp4" },
     { song_name: "Dreaveler", author_name: "Pensees", file_path: "Dreaveler.mp4" },
     { song_name: "Skyfall", author_name: "Adele", file_path: "Skyfall.mp4" },
     { song_name: "CODER", author_name: "Astrofusion", file_path: "CODER.mp4" },
