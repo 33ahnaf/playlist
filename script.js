@@ -13,6 +13,7 @@ let songs = [
     { song_name: "Dreaveler", author_name: "Pensees", file_path: "Dreaveler.mp4" },
     { song_name: "Skyfall", author_name: "Adele", file_path: "Skyfall.mp4" },
     { song_name: "CODER", author_name: "Astrofusion", file_path: "CODER.mp4" },
+    { song_name: "Another Love", author_name: "Tom Odell", file_path: "Tom Odell - Another Love.mp4" },
     { song_name: "Death Is No More", author_name: "BLESSED MANE", file_path: "Death Is No More.mp4" },
     { song_name: "Drugs", author_name: "OBESØN", file_path: "Drugs.mp4" },
     { song_name: "Lost Soul", author_name: "NBSPLV", file_path: "Lost Soul.mp4" },
