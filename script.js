@@ -11,6 +11,7 @@ let songs = [
     { song_name: "Love Me Again", author_name: "John Newman", file_path: "Love Me Again.mp4" },
     { song_name: "Dancefloor Dreamer", author_name: "NIVIRO", file_path: "NIVIRO - Dancefloor Dreamer.mp4" },
     { song_name: "Two Different Worlds", author_name: "KORUSE && mzmff", file_path: "Two Different Worlds.mp4" },
+    { song_name: "Two Different Worlds (Slowed & Reverb)", author_name: "KORUSE && mzmff", file_path: "Two Different Worlds (Slowed & Reverb).mp4" },
     { song_name: "Dreaveler", author_name: "Pensees", file_path: "Dreaveler.mp4" },
     { song_name: "Skyfall", author_name: "Adele", file_path: "Skyfall.mp4" },
     { song_name: "CODER", author_name: "Astrofusion", file_path: "CODER.mp4" },
