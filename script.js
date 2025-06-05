@@ -38,6 +38,7 @@ let songs = [
     { song_name: "The Last of Us", author_name: "Gustavo Santaolalla", file_path: "The Last of Us Theme Song.mp4" },
     { song_name: "The Lost Soul Down", author_name: "NBSPLV", file_path: "The Lost Soul Down.mp4" },
     { song_name: "GANGSTA'S PARADISE", author_name: "Coolio", file_path: "https://www.youtube.com/watch?v=NMNsvyDbdMQ" },
+    { song_name: "33 Max Verstappen", author_name: "Carte Blanq && Maxx Power", file_path: "33 Max Verstappen.mp4" },
 ];
 
 let mainDiv = document.getElementById("main-div");
