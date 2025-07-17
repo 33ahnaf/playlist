@@ -1,4 +1,6 @@
 let songs = [
+    { song_name: "Let It Happen", author_name: "Tame Impala", file_path: "Let It Happen.mp4" },
+    { song_name: "Romantic Homicide", author_name: "d4vd", file_path: "Romantic Homicide.mp4" },
     { song_name: "Safe and Sound", author_name: "Capital Cities", file_path: "Safe and Sound.mp4" },
     { song_name: "Resonance", author_name: "HOME", file_path: "HOME - Resonance.mp4" },
     { song_name: "Hurts So Good", author_name: "Astrid S", file_path: "Hurts So Good.mp4" },
