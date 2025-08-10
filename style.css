@@ -1,4 +1,6 @@
 body {
+    margin: 0px;
+    padding: 0px;
     background-color: #121212;
     color: #ffffff;
     font-family: Arial, sans-serif;
@@ -69,3 +71,4 @@ h2 {
 #back-btn:hover {
     transform: scale(1.07);
 }
+
